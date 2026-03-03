@@ -1,1 +1,1 @@
-# flashmind
+# FlashMind
